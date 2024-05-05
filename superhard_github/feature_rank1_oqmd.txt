@@ -1,0 +1,142 @@
+avg_crystal radius
+avg_Melting point (K)
+max_valence d
+energy_above_hull
+volume
+max_crystal radius
+min_heat atomization (kJ/mol)
+avg_heat of fusion (kJ/mol) 
+avg_heat atomization (kJ/mol)
+avg_Cohesive energy
+avg_Boiling Point (K)
+avg_ Atomic_Number
+avg_Zunger radii sum
+avg_number of valence electrons
+avg_ Covalent_Radius
+min_Cohesive energy
+avg_ Atomic_Weight
+avg_Density (g/mL)
+avg_electron affinity (kJ/mol)
+avg_heat of vaporization (kJ/mol) 
+avg_Atomic Radus
+diff_thermal conductivity (W/(m K)) 
+avg_polarizability(A^3)
+avg_group
+avg_valence d
+avg_thermal conductivity (W/(m K)) 
+avg_Mendeleev Number
+avg_ionic radius
+min_Mendeleev Number
+avg_specific heat (J/g K) 
+max_Zunger radii sum
+diff_electron affinity (kJ/mol)
+avg_families
+min_heat of fusion (kJ/mol) 
+avg_ Pauling_Electronegativity
+avg_metallic valence
+avg_Allred-Rockow electronegativity
+avg_gilmor number of valence electron
+avg_Gordy electonegativity
+min_1st ionization potential (kJ/mol)
+avg_1st ionization potential (kJ/mol)
+avg_Mullinke EN
+diff_Melting point (K)
+diff_number of valence electrons
+min_crystal radius
+avg_Period
+diff_heat of fusion (kJ/mol) 
+avg_MB electonegativity
+diff_Gordy electonegativity
+max_electron affinity (kJ/mol)
+diff_ Pauling_Electronegativity
+diff_heat of vaporization (kJ/mol) 
+max_Cohesive energy
+min_Melting point (K)
+max_number of valence electrons
+diff_MB electonegativity
+max_Melting point (K)
+diff_valence d
+min_Gordy electonegativity
+diff_Zunger radii sum
+diff_Density (g/mL)
+diff_crystal radius
+diff_Cohesive energy
+diff_heat atomization (kJ/mol)
+diff_specific heat (J/g K) 
+diff_Boiling Point (K)
+diff_Mendeleev Number
+max_Density (g/mL)
+avg_outer shell electrons
+diff_1st ionization potential (kJ/mol)
+diff_metallic valence
+avg_valence p
+max_heat atomization (kJ/mol)
+min_specific heat (J/g K) 
+max_polarizability(A^3)
+diff_ Covalent_Radius
+diff_polarizability(A^3)
+max_thermal conductivity (W/(m K)) 
+max_Mendeleev Number
+min_electron affinity (kJ/mol)
+min_MB electonegativity
+diff_Allred-Rockow electronegativity
+diff_ Atomic_Weight
+min_Mullinke EN
+avg_valence s
+min_Allred-Rockow electronegativity
+diff_gilmor number of valence electron
+diff_group
+min_ Atomic_Weight
+diff_Mullinke EN
+min_ Pauling_Electronegativity
+diff_ Atomic_Number
+max_Atomic Radus
+max_heat of fusion (kJ/mol) 
+min_gilmor number of valence electron
+max_Boiling Point (K)
+max_heat of vaporization (kJ/mol) 
+min_group
+max_ Atomic_Weight
+diff_ionic radius
+min_Boiling Point (K)
+diff_Atomic Radus
+min_ Atomic_Number
+min_thermal conductivity (W/(m K)) 
+max_ Covalent_Radius
+min_Zunger radii sum
+max_ Atomic_Number
+max_ Pauling_Electronegativity
+min_heat of vaporization (kJ/mol) 
+max_Allred-Rockow electronegativity
+min_polarizability(A^3)
+max_ionic radius
+max_gilmor number of valence electron
+min_ Covalent_Radius
+max_MB electonegativity
+max_group
+min_Density (g/mL)
+max_specific heat (J/g K) 
+diff_outer shell electrons
+max_1st ionization potential (kJ/mol)
+diff_valence p
+max_Mullinke EN
+max_metallic valence
+max_Gordy electonegativity
+min_metallic valence
+min_number of valence electrons
+diff_Period
+min_ionic radius
+min_valence s
+diff_families
+min_Atomic Radus
+diff_valence s
+max_valence p
+min_families
+min_outer shell electrons
+max_Period
+min_valence p
+min_valence d
+max_outer shell electrons
+max_families
+min_Period
+max_valence s
